@@ -34,7 +34,7 @@ Key evaluation artifacts:
 #### 🔍 Sample Results
 
 **Training Results Curve**  
-![Training Results Curve](Metrics.png)
+![Training Results Curve](Data/Metrics.png)
 
 **Confusion Matrix**  
 ![Confusion Matrix](Data/Confusion_Matrix.png)
